@@ -12,10 +12,11 @@ Prerequisites:
 1.	An Ubuntu System 
 2.	Access to a terminal on command line
 3.	A user with sudo or root permission
-Required Packages: 
+
+## Required Packages: 
 1. Apache Spark 
 2. Java 
 3. PySpark
 4. FindSpark
-5. Scala
-6. 
+5. SQL
+
